@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="QMetry Services" verbose="0">
+
+	<test name="QMetry_TestScripts" enabled="false">
+		<classes>
+			<class name="">
+				<methods>
+					<include name=""></include>
+				</methods>
+			</class>
+		</classes>
+	</test>
+
+</suite>
